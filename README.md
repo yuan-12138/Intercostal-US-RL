@@ -41,7 +41,7 @@ The trained policies and the blender context file can be downloaded from https:/
 
 To see our project in action, watch the demo video:
 
-[![Demo Video](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "Demo Video Title")
+[![Demo Video](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/2bGz3ZKYsyI "Demo Video Title")
 
 
 ## Acknowledgements
